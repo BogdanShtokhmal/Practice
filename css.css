@@ -1,0 +1,96 @@
+body{
+    margin: 0px;
+    text-align: center;
+}
+.target1{
+    height: 200px;
+    background: #e949df;
+
+}
+.target2{
+    height: 150px;
+    background: #606060;
+
+}
+.target3{
+    width: 33%;
+    height: 150px;
+    background: #137502;
+    float: left;
+}
+.target4{
+    width: 33%;
+    height: 150px;
+    background: #0581e2;
+    float: left;
+}
+.target5{
+    width: 34%;
+    height: 150px;
+    background: #012e53;
+    float: left;
+
+}
+.target6{
+    height: 150px;
+    background: #050505;
+    clear: both;
+    color: white;
+}
+
+.h1{
+    height: 100px;
+    background: #ffffff;
+    /*margin-left: 100px;*/
+    /*margin-right: 100px;*/
+    /*margin-top: 45px;*/
+    margin: 45px auto  ;
+    width: 70%;
+    position: relative;
+}
+.h2{
+    height: 50px;
+    width: 80%;
+    background: black;
+    margin-left: 80px;
+    /*margin-right: 100px;*/
+    margin-top: 28px;
+    position: absolute;
+
+}
+.m1{
+    width: 25%;
+    height: 100px;
+    background: #ba0e0e;
+    float: left;
+    margin-top: 15px;
+}
+.m2{
+    width: 25%;
+    height: 100px;
+    background: #e26209;
+    float: left;
+    margin-top: 15px;
+}
+.m3{
+    width: 25%;
+    height: 100px;
+    background: #0b80d9;
+    float: left;
+    margin-top: 15px;
+}
+.m4{
+    width: 25%;
+    height: 100px;
+    background: #ffe601;
+    float: left;
+    margin-top: 15px;
+}
+.left{
+    background: #f18526;
+    width: 70%;
+    height: 70%;
+    margin-left: 60px;
+
+
+}
